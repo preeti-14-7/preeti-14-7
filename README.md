@@ -49,12 +49,6 @@ Hi, I'm **Preeti Yadav** a web  developer 👨🏻‍💻 from India. I'm a prob
 
 <hr>
 
-<details>
-<summary>📈 My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-</details>
 
 </br>
 
